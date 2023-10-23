@@ -1,4 +1,5 @@
-# Frontend
+# CRUD-Angular_Frontend
+- Frontend para inventario de productos con `Angular`, `Node`, `Express`, `TypeScript`, `Sequelize` y `MySQL`.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
